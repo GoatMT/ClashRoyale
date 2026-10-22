@@ -24,8 +24,17 @@ All paths are relative, so the site works at a GitHub Pages project URL as well 
 ## Update the archive
 
 - Add or edit player profiles in `data/players.json`.
-- Add complete individual games in `data/matches.json`. Use the player IDs `mt` and `bean`; each match stores its crown score, winner, source image, and both eight-card decks.
-- Assign match IDs to rounds in `data/series.json`. Round one is first to 8 game wins; rounds two through seven are first to 9; a series ends at 4 round wins.
-- The seven clipped screenshot entries are in `unresolvedEntries` in `data/matches.json`. The site excludes them from statistics until their scores and decks can be read.
+- Add complete individual games in `data/matches.json`. Use the player IDs `mt` and `bean`; each match stores its crown score, winner, source image, and both eight-card decks. Match cards link to a dedicated game record at `game.html?id=mNN`.
+- Maintain card type and overlapping gameplay-role labels in `data/card-types.json`. The Card Statistics page and every displayed deck read from this shared catalog. Add new non-troop types and role tags there when the archive grows; uncategorized cards display as Troop / Support.
+- Assign match IDs to rounds in `data/series.json`. Round one is first to 8 game wins; rounds two through seven are first to 9; a series ends at 4 round wins. Round and series standings are calculated from those match IDs.
+- The ten clipped or potentially duplicated screenshot entries are in `unresolvedEntries` in `data/matches.json`. The site excludes them from statistics until their scores and decks can be read.
 
-The imported screenshot set contains 15 fully visible games. Their captured round placement is provisional because the screenshots do not show round boundaries. Dates are not present in the images and are left blank.
+The archive contains 20 fully visible games from IMG_3270.PNG through IMG_3280.PNG. The first 15 are provisionally grouped into Round 1; the five complete games in IMG_3278.PNG through IMG_3280.PNG are recorded as Round 2 per the user's note. The screenshots do not show the original beginning/end of round boundaries, so Round 1 placement remains provisional. Screenshot capture metadata places the Round 1 log on October 20, 2026; the visible 1d 13h / 1d 14h Battle Log ages place those games on October 18, 2026. The screenshots do not establish exact match times, so only the calendar date is recorded. Round 2 screenshots establish October 20, 2026 as the game date. Card names are visual identifications from the card artwork.
+
+## Pages
+
+- `index.html` — current best-of-7 dashboard and Round 2 progress.
+- `records.html` — searchable, filterable record index, with dedicated game-page links and flagged partial captures.
+- `game.html?id=m16` — individual crown score, player-versus-player result, round tally, both decks, source, and neighboring game navigation. Replace `m16` with another match ID.
+- `rounds.html` — round scoreboards, crown totals and averages, close games, shutouts, streaks, standout scores, card usage, repeated deck pairs, and linked game logs.
+- `matches.html`, `series.html`, `players.html`, `cards.html`, and `analytics.html` — history, round breakdowns, player/card statistics, and analytics.

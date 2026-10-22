@@ -1,6 +1,6 @@
 {
   "format": {"roundsToWin": 4, "maxRounds": 7, "roundOneGameTarget": 8, "laterRoundGameTarget": 9},
   "series": [
-    {"id":"s01","name":"Imported Battle Log","startedAt":null,"status":"in-progress","matchIds":["m01","m02","m03","m04","m05","m06","m07","m08","m09","m10","m11","m12","m13","m14","m15"],"rounds":[{"number":1,"matchIds":["m01","m02","m03","m04","m05","m06","m07","m08","m09","m10","m11","m12","m13","m14","m15"],"winner":null,"gameTarget":8,"status":"in-progress"}],"note":"The screenshots do not show round boundaries. All fully visible matches are kept together as a provisional Round 1; edit series.json when round boundaries are known."}
+    {"id":"s01","name":"Imported Battle Log","startedAt":null,"status":"in-progress","matchIds":["m01","m02","m03","m04","m05","m06","m07","m08","m09","m10","m11","m12","m13","m14","m15","m16","m17","m18","m19","m20"],"rounds":[{"number":1,"matchIds":["m01","m02","m03","m04","m05","m06","m07","m08","m09","m10","m11","m12","m13","m14","m15"],"winner":null,"gameTarget":8,"status":"complete"},{"number":2,"matchIds":["m16","m17","m18","m19","m20"],"winner":null,"gameTarget":9,"status":"in-progress"}],"note":"The first import is provisionally grouped as Round 1; the five complete games in IMG_3278.PNG through IMG_3280.PNG are assigned to Round 2 per the user."}
   ]
 }
