@@ -1,0 +1,6 @@
+{
+  "players": [
+    { "id": "mt", "name": "MT", "tag": null, "color": "#35aaff", "side": "blue" },
+    { "id": "bean", "name": "TheBeanWithDrip", "tag": null, "color": "#ff4e9a", "side": "pink" }
+  ]
+}
