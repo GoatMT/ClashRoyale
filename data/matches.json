@@ -1,841 +1,108 @@
 {
   "matches": [
-    {
-      "id": "m01",
-      "source": "IMG_3270.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 1,
-        "bean": 2
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Miner",
-          "Hog Rider",
-          "Cannon",
-          "Balloon",
-          "Barbarian Barrel",
-          "Guards",
-          "Archer Queen",
-          "Poison"
-        ],
-        "bean": [
-          "Royal Recruits",
-          "Fisherman",
-          "Magic Archer",
-          "Tombstone",
-          "Royal Hogs",
-          "Goblin Cage",
-          "Electro Spirit",
-          "Night Witch"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 14h ago"
-    },
-    {
-      "id": "m02",
-      "source": "IMG_3270.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 0,
-        "bean": 1
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Miner",
-          "Hog Rider",
-          "Dart Goblin",
-          "Arrows",
-          "Bomber",
-          "Goblins",
-          "Goblin Drill",
-          "Mega Knight"
-        ],
-        "bean": [
-          "Cannon",
-          "Balloon",
-          "Ice Spirit",
-          "Firecracker",
-          "Royal Hogs",
-          "Tombstone",
-          "Electro Spirit",
-          "Musketeer"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 14h ago"
-    },
-    {
-      "id": "m03",
-      "source": "IMG_3271.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 0,
-        "bean": 1
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Cannon",
-          "Hog Rider",
-          "Skeleton Army",
-          "Fisherman",
-          "Baby Dragon",
-          "Tombstone",
-          "Arrows",
-          "Mega Knight"
-        ],
-        "bean": [
-          "Knight",
-          "Goblin Hut",
-          "Firecracker",
-          "Tesla",
-          "Balloon",
-          "The Log",
-          "Goblin Drill",
-          "Executioner"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 14h ago"
-    },
-    {
-      "id": "m04",
-      "source": "IMG_3271.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 0,
-        "bean": 1
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Poison",
-          "Knight",
-          "Skeleton Army",
-          "Electro Wizard",
-          "Ice Wizard",
-          "Zap",
-          "Lumberjack",
-          "Balloon"
-        ],
-        "bean": [
-          "Tornado",
-          "Miner",
-          "Goblin Dart",
-          "Royal Hogs",
-          "Graveyard",
-          "Baby Dragon",
-          "Goblin Barrel",
-          "Royal Recruits"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 14h ago"
-    },
-    {
-      "id": "m05",
-      "source": "IMG_3272.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 1,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Mini P.E.K.K.A",
-          "Goblin Barrel",
-          "Dart Goblin",
-          "Bandit",
-          "Barbarian Barrel",
-          "Rage",
-          "Minions",
-          "Goblin Cage"
-        ],
-        "bean": [
-          "Inferno Dragon",
-          "Skeletons",
-          "Sparky",
-          "Mega Minion",
-          "Inferno Tower",
-          "Goblin Drill",
-          "Ice Golem",
-          "Royal Ghost"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m06",
-      "source": "IMG_3272.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 0,
-        "bean": 1
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Miner",
-          "Knight",
-          "Bomber",
-          "Hog Rider",
-          "Barbarian Barrel",
-          "Electro Wizard",
-          "Skeleton Army",
-          "Minions"
-        ],
-        "bean": [
-          "Mini P.E.K.K.A",
-          "Barbarian Hut",
-          "Electro Dragon",
-          "Magic Archer",
-          "Ice Golem",
-          "Giant",
-          "Zap",
-          "Tesla"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 14h ago"
-    },
-    {
-      "id": "m07",
-      "source": "IMG_3273.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 3,
-        "bean": 1
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Prince",
-          "Baby Dragon",
-          "Goblin Cage",
-          "Skeleton Barrel",
-          "Golem",
-          "Arrows",
-          "Three Musketeers",
-          "Dark Prince"
-        ],
-        "bean": [
-          "Royal Recruits",
-          "Royal Hogs",
-          "Tombstone",
-          "Golem",
-          "Bomber",
-          "Inferno Tower",
-          "Baby Dragon",
-          "Goblin Gang"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m08",
-      "source": "IMG_3273.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 0,
-        "bean": 1
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Electro Spirit",
-          "Mega Minion",
-          "Inferno Tower",
-          "Bandit",
-          "Giant",
-          "Magic Archer",
-          "Freeze",
-          "Sparky"
-        ],
-        "bean": [
-          "Skeletons",
-          "Ice Wizard",
-          "Royal Recruits",
-          "Bomber",
-          "Royal Hogs",
-          "Tesla",
-          "Poison",
-          "Cannon"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m09",
-      "source": "IMG_3274.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 1,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Ice Wizard",
-          "Dark Prince",
-          "Skeleton Army",
-          "Fireball",
-          "Golem",
-          "Skeleton Dragons",
-          "Giant",
-          "Minions"
-        ],
-        "bean": [
-          "Princess",
-          "Golden Knight",
-          "Archers",
-          "Three Musketeers",
-          "Rocket",
-          "Skeletons",
-          "Cannon Cart",
-          "Baby Dragon"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m10",
-      "source": "IMG_3274.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 3,
-        "bean": 1
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Balloon",
-          "Mirror",
-          "Mini P.E.K.K.A",
-          "Royal Hogs",
-          "Witch",
-          "Monk",
-          "Inferno Dragon",
-          "Bomber"
-        ],
-        "bean": [
-          "Night Witch",
-          "Monk",
-          "Inferno Dragon",
-          "Bomber",
-          "Skeleton Barrel",
-          "Lumberjack",
-          "Giant Snowball",
-          "Goblin Giant"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m11",
-      "source": "IMG_3275.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 0,
-        "bean": 2
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Goblin Gang",
-          "Miner",
-          "Valkyrie",
-          "Golden Knight",
-          "Rage",
-          "Archers",
-          "Minions",
-          "Cannon Cart"
-        ],
-        "bean": [
-          "Cannon",
-          "Dart Goblin",
-          "Knight",
-          "The Log",
-          "Giant Snowball",
-          "Giant",
-          "Three Musketeers",
-          "Goblin Cage"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m12",
-      "source": "IMG_3275.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 3,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Evolved Baby Dragon",
-          "Evolved Knight",
-          "Evolved Valkyrie",
-          "Bats",
-          "Guards",
-          "Hog Rider",
-          "Cannon",
-          "Rage"
-        ],
-        "bean": [
-          "Evolved Cannon",
-          "Golden Knight",
-          "Evolved Skeletons",
-          "Royal Delivery",
-          "Skeletons",
-          "The Log",
-          "Tombstone",
-          "Royal Hogs"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m13",
-      "source": "IMG_3276.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 3,
-        "bean": 1
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Goblin Barrel",
-          "Royal Hogs",
-          "Knight",
-          "Ice Wizard",
-          "Earthquake",
-          "Minions",
-          "Inferno Tower",
-          "Mega Knight"
-        ],
-        "bean": [
-          "Cannon",
-          "Firecracker",
-          "Giant Snowball",
-          "Electro Spirit",
-          "Poison",
-          "Golden Knight",
-          "Battle Healer",
-          "Lumberjack"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m14",
-      "source": "IMG_3276.PNG",
-      "sourceOrder": 2,
-      "score": {
-        "mt": 1,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Princess",
-          "Goblin Barrel",
-          "Knight",
-          "Guards",
-          "Minions",
-          "Balloon",
-          "Goblin Hut",
-          "Electro Giant"
-        ],
-        "bean": [
-          "Cannon",
-          "Dart Goblin",
-          "Ice Golem",
-          "Hog Rider",
-          "The Log",
-          "Bomber",
-          "Goblin Hut",
-          "Royal Hogs"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m15",
-      "source": "IMG_3277.PNG",
-      "sourceOrder": 1,
-      "score": {
-        "mt": 1,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Mini P.E.K.K.A",
-          "Guards",
-          "The Log",
-          "Goblin Gang",
-          "Ice Wizard",
-          "Battle Healer",
-          "Goblin Hut",
-          "Minions"
-        ],
-        "bean": [
-          "Cannon",
-          "Miner",
-          "Skeleton Barrel",
-          "Fisherman",
-          "Poison",
-          "Skeletons",
-          "Bomber",
-          "Freeze"
-        ]
-      },
-      "date": "2026-10-18",
-      "confidence": "visible",
-      "recordedAgo": "1d 13h ago"
-    },
-    {
-      "id": "m16",
-      "source": "IMG_3278.PNG",
-      "sourceOrder": 1,
-      "roundNumber": 2,
-      "recordedAgo": "1 min ago",
-      "score": {
-        "mt": 1,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Freeze",
-          "Bandit",
-          "Cannon",
-          "Guards",
-          "Goblin Giant",
-          "Goblin Cage",
-          "Dart Goblin",
-          "Wizard"
-        ],
-        "bean": [
-          "Poison",
-          "Night Witch",
-          "Bomber",
-          "Skeletons",
-          "Giant",
-          "Giant Snowball",
-          "Spear Goblins",
-          "Electro Dragon"
-        ]
-      },
-      "date": "2026-10-20",
-      "confidence": "visible"
-    },
-    {
-      "id": "m17",
-      "source": "IMG_3279.PNG",
-      "sourceOrder": 1,
-      "roundNumber": 2,
-      "recordedAgo": "13 min ago",
-      "score": {
-        "mt": 1,
-        "bean": 2
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Royal Hogs",
-          "Archers",
-          "Tornado",
-          "Baby Dragon",
-          "Rage",
-          "Freeze",
-          "Knight",
-          "Goblin Hut"
-        ],
-        "bean": [
-          "Executioner",
-          "Ice Wizard",
-          "Goblin Hut",
-          "Magic Archer",
-          "Bomber",
-          "Poison",
-          "Battle Healer",
-          "Sparky"
-        ]
-      },
-      "date": "2026-10-20",
-      "confidence": "visible"
-    },
-    {
-      "id": "m18",
-      "source": "IMG_3279.PNG",
-      "sourceOrder": 2,
-      "roundNumber": 2,
-      "recordedAgo": "18 min ago",
-      "score": {
-        "mt": 0,
-        "bean": 1
-      },
-      "winner": "bean",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Mini P.E.K.K.A",
-          "Baby Dragon",
-          "Balloon",
-          "Minions",
-          "Skeleton Dragons",
-          "Goblins",
-          "Barbarian Barrel",
-          "Mega Knight"
-        ],
-        "bean": [
-          "Goblin Cage",
-          "Hog Rider",
-          "Ice Golem",
-          "Skeleton Barrel",
-          "Goblin Hut",
-          "Goblin Gang",
-          "Poison",
-          "Goblin Giant"
-        ]
-      },
-      "date": "2026-10-20",
-      "confidence": "visible"
-    },
-    {
-      "id": "m19",
-      "source": "IMG_3280.PNG",
-      "sourceOrder": 1,
-      "roundNumber": 2,
-      "recordedAgo": "1 min ago",
-      "score": {
-        "mt": 1,
-        "bean": 0
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Cannon",
-          "Miner",
-          "Hog Rider",
-          "Tesla",
-          "Sparky",
-          "Ice Wizard",
-          "Goblin Gang",
-          "Valkyrie"
-        ],
-        "bean": [
-          "Bomb Tower",
-          "Goblin Hut",
-          "Balloon",
-          "Freeze",
-          "Ice Spirit",
-          "Ice Golem",
-          "Witch",
-          "Goblin Barrel"
-        ]
-      },
-      "date": "2026-10-20",
-      "confidence": "visible"
-    },
-    {
-      "id": "m20",
-      "source": "IMG_3280.PNG",
-      "sourceOrder": 2,
-      "roundNumber": 2,
-      "recordedAgo": "7 min ago",
-      "score": {
-        "mt": 2,
-        "bean": 1
-      },
-      "winner": "mt",
-      "players": {
-        "mt": "MT",
-        "bean": "TheBeanWithDrip"
-      },
-      "decks": {
-        "mt": [
-          "Bandit",
-          "Miner",
-          "Goblin Hut",
-          "Electro Dragon",
-          "Royal Hogs",
-          "Knight",
-          "Poison",
-          "Minions"
-        ],
-        "bean": [
-          "Inferno Tower",
-          "Balloon",
-          "Rage",
-          "Ice Spirit",
-          "Cannon Cart",
-          "Firecracker",
-          "The Log",
-          "Magic Archer"
-        ]
-      },
-      "date": "2026-10-20",
-      "confidence": "visible"
-    }
+    {"id":"m01","gameNumber":1,"roundNumber":1,"roundGame":1,"source":"Game1and2.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Miner","Hog Rider","Dart Goblin","Arrows","Bomber","Goblins","Goblin Drill","Mega Knight"],"bean":["Cannon","Balloon","Ice Spirit","Firecracker","Royal Hogs","Tombstone","Electro Spirit","Musketeer"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 14h ago"},
+    {"id":"m02","gameNumber":2,"roundNumber":1,"roundGame":2,"source":"Game1and2.PNG","sourceOrder":1,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Miner","Hog Rider","Cannon","Balloon","Barbarian Barrel","Guards","Archer Queen","Poison"],"bean":["Royal Recruits","Fisherman","Magic Archer","Tombstone","Royal Hogs","Goblin Cage","Electro Spirit","Night Witch"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 14h ago"},
+    {"id":"m03","gameNumber":3,"roundNumber":1,"roundGame":3,"source":"Game3and4.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Poison","Knight","Skeleton Army","Electro Wizard","Ice Wizard","Zap","Lumberjack","Balloon"],"bean":["Tornado","Miner","Dart Goblin","Royal Hogs","Graveyard","Baby Dragon","Goblin Barrel","Royal Recruits"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 14h ago"},
+    {"id":"m04","gameNumber":4,"roundNumber":1,"roundGame":4,"source":"Game3and4.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Cannon","Hog Rider","Skeleton Army","Fisherman","Baby Dragon","Tombstone","Arrows","Mega Knight"],"bean":["Knight","Goblin Hut","Firecracker","Tesla","Balloon","The Log","Goblin Drill","Executioner"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 14h ago"},
+    {"id":"m05","gameNumber":5,"roundNumber":1,"roundGame":5,"source":"Game5and6.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Miner","Knight","Bomber","Hog Rider","Barbarian Barrel","Electro Wizard","Skeleton Army","Minions"],"bean":["Mini P.E.K.K.A","Barbarian Hut","Electro Dragon","Magic Archer","Ice Golem","Giant","Zap","Tesla"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 14h ago"},
+    {"id":"m06","gameNumber":6,"roundNumber":1,"roundGame":6,"source":"Game5and6.PNG","sourceOrder":1,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Goblin Barrel","Dart Goblin","Bandit","Barbarian Barrel","Rage","Minions","Goblin Cage"],"bean":["Inferno Dragon","Skeletons","Sparky","Mega Minion","Inferno Tower","Goblin Drill","Ice Golem","Royal Ghost"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m07","gameNumber":7,"roundNumber":1,"roundGame":7,"source":"Game7and8.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Electro Spirit","Mega Minion","Inferno Tower","Bandit","Giant","Magic Archer","Freeze","Sparky"],"bean":["Skeletons","Ice Wizard","Royal Recruits","Bomber","Royal Hogs","Tesla","Poison","Cannon"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m08","gameNumber":8,"roundNumber":1,"roundGame":8,"source":"Game7and8.PNG","sourceOrder":1,"score":{"mt":3,"bean":1},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Prince","Baby Dragon","Goblin Cage","Skeleton Barrel","Golem","Arrows","Three Musketeers","Dark Prince"],"bean":["Royal Recruits","Royal Hogs","Tombstone","Golem","Bomber","Inferno Tower","Baby Dragon","Goblin Gang"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m09","gameNumber":9,"roundNumber":1,"roundGame":9,"source":"Game9and10.PNG","sourceOrder":2,"score":{"mt":3,"bean":1},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Balloon","Mirror","Mini P.E.K.K.A","Royal Hogs","Witch","Monk","Inferno Dragon","Bomber"],"bean":["Night Witch","Monk","Inferno Dragon","Bomber","Skeleton Barrel","Lumberjack","Giant Snowball","Goblin Giant"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m10","gameNumber":10,"roundNumber":1,"roundGame":10,"source":"Game9and10.PNG","sourceOrder":1,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Ice Wizard","Dark Prince","Skeleton Army","Fireball","Golem","Skeleton Dragons","Giant","Minions"],"bean":["Princess","Golden Knight","Archers","Three Musketeers","Rocket","Skeletons","Cannon Cart","Baby Dragon"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m11","gameNumber":11,"roundNumber":1,"roundGame":11,"source":"Game11and12.PNG","sourceOrder":2,"score":{"mt":3,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Evolved Baby Dragon","Evolved Knight","Evolved Valkyrie","Bats","Guards","Hog Rider","Cannon","Rage"],"bean":["Evolved Cannon","Golden Knight","Evolved Skeletons","Royal Delivery","Skeletons","The Log","Tombstone","Royal Hogs"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m12","gameNumber":12,"roundNumber":1,"roundGame":12,"source":"Game11and12.PNG","sourceOrder":1,"score":{"mt":0,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Goblin Gang","Miner","Valkyrie","Golden Knight","Rage","Archers","Minions","Cannon Cart"],"bean":["Cannon","Dart Goblin","Knight","The Log","Giant Snowball","Giant","Three Musketeers","Goblin Cage"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m13","gameNumber":13,"roundNumber":1,"roundGame":13,"source":"Game13and14.PNG","sourceOrder":2,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Princess","Goblin Barrel","Knight","Guards","Minions","Balloon","Goblin Hut","Electro Giant"],"bean":["Cannon","Dart Goblin","Ice Golem","Hog Rider","The Log","Bomber","Goblin Hut","Royal Hogs"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m14","gameNumber":14,"roundNumber":1,"roundGame":14,"source":"Game13and14.PNG","sourceOrder":1,"score":{"mt":3,"bean":1},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Goblin Barrel","Royal Hogs","Knight","Ice Wizard","Earthquake","Minions","Inferno Tower","Mega Knight"],"bean":["Cannon","Firecracker","Giant Snowball","Electro Spirit","Poison","Golden Knight","Battle Healer","Lumberjack"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m15","gameNumber":15,"roundNumber":1,"roundGame":15,"source":"Game15.PNG","sourceOrder":1,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Guards","The Log","Goblin Gang","Ice Wizard","Battle Healer","Goblin Hut","Minions"],"bean":["Cannon","Miner","Skeleton Barrel","Fisherman","Poison","Skeletons","Bomber","Freeze"]},"trophies":{"mt":9000,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"date":"2026-10-18","confidence":"visible","recordedAgo":"1d 13h ago"},
+    {"id":"m16","gameNumber":21,"roundNumber":2,"roundGame":6,"source":"Game1.PNG","sourceOrder":1,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Freeze","Bandit","Cannon","Guards","Goblin Giant","Goblin Cage","Dart Goblin","Wizard"],"bean":["Poison","Night Witch","Bomber","Skeletons","Giant","Giant Snowball","Spear Goblins","Tesla"]},"trophies":{"mt":9029,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"1 min ago"},
+    {"id":"m17","gameNumber":22,"roundNumber":2,"roundGame":7,"source":"Game2and3.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Baby Dragon","Balloon","Minions","Skeleton Dragons","Goblins","Barbarian Barrel","Mega Knight"],"bean":["Goblin Cage","Hog Rider","Ice Golem","Skeleton Barrel","Goblin Hut","Three Musketeers","Poison","Goblin Giant"]},"trophies":{"mt":9029,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"18 min ago"},
+    {"id":"m18","gameNumber":23,"roundNumber":2,"roundGame":8,"source":"Game2and3.PNG","sourceOrder":1,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Hogs","Archers","Tornado","Baby Dragon","Rage","Freeze","Knight","Goblin Hut"],"bean":["Goblin Drill","Ice Wizard","Goblin Cage","Magic Archer","Bomber","Poison","Battle Healer","Bomb Tower"]},"trophies":{"mt":9029,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"13 min ago"},
+    {"id":"m19","gameNumber":24,"roundNumber":2,"roundGame":9,"source":"Game4and5.PNG","sourceOrder":2,"score":{"mt":2,"bean":1},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Bandit","Miner","Goblin Hut","Electro Dragon","Royal Hogs","Barbarian Barrel","Poison","Minions"],"bean":["Tesla","Balloon","Rage","Ice Spirit","Cannon Cart","Firecracker","The Log","Night Witch"]},"trophies":{"mt":9029,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"7 min ago"},
+    {"id":"m20","gameNumber":25,"roundNumber":2,"roundGame":10,"source":"Game4and5.PNG","sourceOrder":1,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Cannon","Miner","Hog Rider","Tesla","Ice Wizard","Barbarian Barrel","Three Musketeers","Valkyrie"],"bean":["Bomb Tower","Goblin Cage","Balloon","Freeze","Ice Spirit","Ice Golem","Witch","Goblins"]},"trophies":{"mt":9029,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible"},
+    {"id":"m21","gameNumber":26,"roundNumber":2,"roundGame":11,"source":"R2_Game11and12.PNG","sourceOrder":2,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Skeleton Barrel","Royal Giant","Skeleton Dragons","Giant Snowball","Witch","Skeletons","Graveyard"],"bean":["Bomb Tower","Ice Wizard","Ice Spirit","Goblin Giant","Battle Healer","Fireball","Arrows","Goblins"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 42min ago"},
+    {"id":"m22","gameNumber":27,"roundNumber":2,"roundGame":12,"source":"R2_Game11and12.PNG","sourceOrder":1,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Goblin Barrel","Battle Ram","Electro Wizard","Bandit","Bowler","Graveyard","Tesla"],"bean":["Royal Giant","Cannon","Goblin Cage","Fisherman","Ram Rider","Zap","Balloon","Electro Spirit"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 36min ago"},
+    {"id":"m23","gameNumber":28,"roundNumber":2,"roundGame":13,"source":"R2_Game13and14.PNG","sourceOrder":2,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Cannon","Mini P.E.K.K.A","Goblin Cage","Bomber","Balloon","Ram Rider","Fisherman","Mega Knight"],"bean":["Valkyrie","Royal Giant","Graveyard","Ice Spirit","Battle Healer","Giant Snowball","Battle Ram","Electro Dragon"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 31min ago"},
+    {"id":"m24","gameNumber":29,"roundNumber":2,"roundGame":14,"source":"R2_Game13and14.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Ghost","Freeze","Princess","Skeletons","Dark Prince","Giant Snowball","Royal Hogs","Wizard"],"bean":["Battle Healer","Poison","Cannon Cart","Guards","Bandit","Goblin Cage","Goblin Drill","Magic Archer"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 27min ago"},
+    {"id":"m25","gameNumber":30,"roundNumber":2,"roundGame":15,"source":"R2_Game15and16.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Poison","Battle Ram","Dart Goblin","Skeleton Dragons","Guards","Bandit","Goblin Barrel","Mini P.E.K.K.A"],"bean":["Freeze","Goblin Cage","Spear Goblins","Fisherman","Goblins","Night Witch","Royal Giant","Bomb Tower"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 23min ago"},
+    {"id":"m26","gameNumber":31,"roundNumber":2,"roundGame":16,"source":"R2_Game15and16.PNG","sourceOrder":1,"score":{"mt":3,"bean":1},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Cannon","Royal Giant","Miner","Princess","Tesla","Ram Rider","Valkyrie","Elite Barbarians"],"bean":["Goblins","Rascals","Electro Wizard","Royal Giant","Battle Ram","Goblin Barrel","Witch","Electro Spirit"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 19min ago"},
+    {"id":"m27","gameNumber":32,"roundNumber":2,"roundGame":17,"source":"R2_Game17and18.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Cannon","Miner","Hog Rider","Elite Barbarians","Bats","Skeleton Dragons","Ice Wizard","Cannon Cart"],"bean":["Goblin Drill","Valkyrie","Bomber","Graveyard","Battle Ram","Skeleton Army","Inferno Tower","Fisherman"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 13min ago"},
+    {"id":"m28","gameNumber":33,"roundNumber":2,"roundGame":18,"source":"R2_Game17and18.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Electro Wizard","Royal Giant","Goblin Barrel","Wizard","Bandit","Bowler","Poison"],"bean":["Lumberjack","Goblin Drill","Tesla","Ice Spirit","Zap","Electro Giant","Elite Barbarians","Electro Spirit"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 9min ago"},
+    {"id":"m29","gameNumber":34,"roundNumber":2,"roundGame":19,"source":"R2_Game19and20.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Electro Dragon","Royal Giant","Cannon","Miner","Skeleton Barrel","Dark Prince","Zap","Rocket"],"bean":["Ice Wizard","Lumberjack","Bomb Tower","Goblins","Ice Spirit","Furnace","Mortar","Giant"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6h 4min ago"},
+    {"id":"m30","gameNumber":35,"roundNumber":2,"roundGame":20,"source":"R2_Game19and20.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Lumberjack","Princess","Giant","Cannon Cart","Battle Healer","Graveyard","Goblin Cage","Freeze"],"bean":["Tesla","Dart Goblin","Giant Snowball","Sparky","Electro Giant","Ice Spirit","Battle Ram","Fireball"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"5h 59min ago"},
+    {"id":"m31","gameNumber":36,"roundNumber":2,"roundGame":21,"source":"R2_Game21.PNG","sourceOrder":1,"score":{"mt":2,"bean":3},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Balloon","Evolved Knight","Hog Rider","Skeleton Army","Cannon","Elite Barbarians","Ice Wizard","Goblin Curse"],"bean":["Tornado","Dart Goblin","Mega Knight","Goblins","Bats","Dark Prince","Skeleton King","Golem"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"5h 55min ago"},
+    {"id":"m32","gameNumber":37,"roundNumber":3,"roundGame":1,"source":"R3_Game1and2.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Royal Giant","Royal Hogs","Hog Rider","Goblin Barrel","Goblin Hut","Wizard","Mega Knight"],"bean":["Goblin Cage","Dart Goblin","Goblins","Giant Snowball","Cannon","Boulder","Yeti","Poison"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"27min ago"},
+    {"id":"m33","gameNumber":38,"roundNumber":3,"roundGame":2,"source":"R3_Game1and2.PNG","sourceOrder":1,"score":{"mt":1,"bean":3},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Giant","Cannon","Royal Hogs","Hog Rider","Rage","Skeleton Dragons","Goblin Barrel","Zap"],"bean":["Valkyrie","Royal Giant","Electro Dragon","Inferno Tower","Ice Spirit","Goblin Hut","Fisherman","Battle Ram"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"22min ago"},
+    {"id":"m34","gameNumber":39,"roundNumber":3,"roundGame":3,"source":"R3_Game3and4.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Hog Rider","Guards","Graveyard","Tesla","Goblin Hut","Minions","Zap","Ram Rider"],"bean":["Barbarian Hut","Royal Hogs","Poison","Ice Spirit","Princess","Zap","Skeletons","Goblin Drill"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"17min ago"},
+    {"id":"m35","gameNumber":40,"roundNumber":3,"roundGame":4,"source":"R3_Game3and4.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Goblin Cage","Princess","Barbarian Barrel","Mega Knight","Zap","Cannon","Freeze","Mirror"],"bean":["Magic Archer","Goblin Barrel","Valkyrie","Tesla","Poison","Hog Rider","Goblins","Furnace"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"11min ago"},
+    {"id":"m36","gameNumber":41,"roundNumber":3,"roundGame":5,"source":"R3_Game5and6.PNG","sourceOrder":2,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Giant","Miner","Rage","Bandit","Suspicious Bush","Poison","Goblins","Royal Delivery"],"bean":["X-Bow","Fisherman","Dart Goblin","Magic Archer","Bats","Freeze","Graveyard","Giant Snowball"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"6min ago"},
+    {"id":"m37","gameNumber":42,"roundNumber":3,"roundGame":6,"source":"R3_Game5and6.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Guards","Cannon","Graveyard","Fireball","Elite Barbarians","Bomber","Electro Wizard"],"bean":["Hog Rider","Rage","Freeze","Tesla","Archers","Earthquake","Skeleton Army","Skeletons"]},"trophies":{"mt":9089,"bean":6744},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"1min ago"},
+    {"id":"m38","gameNumber":43,"roundNumber":3,"roundGame":7,"source":"R3_Game7and8.PNG","sourceOrder":2,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Minions","Electro Giant","Goblin Barrel","Royal Delivery","Bandit","Poison","Fisherman","Furnace"],"bean":["Ice Wizard","Night Witch","Hog Rider","The Log","Rage","Earthquake","Ice Golem","Guards"]},"trophies":{"mt":9089,"bean":6833},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"5h 1min ago"},
+    {"id":"m39","gameNumber":44,"roundNumber":3,"roundGame":8,"source":"R3_Game7and8.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Ice Wizard","The Log","Poison","Bowler","Boulder","Spear Goblins","Golden Knight"],"bean":["Miner","Cannon","Electro Dragon","Skeleton Barrel","Wall Breakers","Goblin Drill","Goblin Curse","Dark Prince"]},"trophies":{"mt":9089,"bean":6833},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"4h 56min ago"},
+    {"id":"m40","gameNumber":45,"roundNumber":3,"roundGame":9,"source":"R3_Game9.PNG","sourceOrder":1,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Freeze","Miner","Ram Rider","Baby Dragon","Cannon","Poison","Rocket"],"bean":["Inferno Tower","X-Bow","Earthquake","Firecracker","Night Witch","Bowler","Goblin Cage","Royal Giant"]},"trophies":{"mt":9089,"bean":6833},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-20","confidence":"visible","recordedAgo":"4h 51min ago"},
+    {"id":"m41","gameNumber":46,"roundNumber":3,"roundGame":10,"source":"R3_Game10and11.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Freeze","Hog Rider","Royal Hogs","Fisherman","Goblin Cage","Baby Dragon","Fireball"],"bean":["Royal Delivery","Valkyrie","Electro Dragon","Bomber","Royal Giant","Firecracker","The Log","Night Witch"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"15h 3min ago"},
+    {"id":"m42","gameNumber":47,"roundNumber":3,"roundGame":11,"source":"R3_Game10and11.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Rage","Hog Rider","Mega Knight","Princess","Cannon","Ram Rider","Evolved Knight"],"bean":["Goblin Cage","Balloon","Ice Spirit","Skeletons","Electro Giant","Bomber","Earthquake","Golden Knight"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 59min ago"},
+    {"id":"m43","gameNumber":48,"roundNumber":4,"roundGame":1,"source":"R4_Game1and2.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Wizard","Miner","Cannon","Ram Rider","Night Witch","Minions","Bats"],"bean":["Fisherman","Ice Spirit","Bandit","Royal Giant","Freeze","Bomber","Giant Snowball","Rascals"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 52min ago"},
+    {"id":"m44","gameNumber":49,"roundNumber":4,"roundGame":2,"source":"R4_Game1and2.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Bandit","Rage","Inferno Tower","Miner","Fisherman","Zap","Valkyrie","Poison"],"bean":["X-Bow","Firecracker","Tesla","Earthquake","Electro Giant","Ice Spirit","Electro Dragon","Boulder"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 46min ago"},
+    {"id":"m45","gameNumber":50,"roundNumber":4,"roundGame":3,"source":"R4_Game3and4.PNG","sourceOrder":2,"score":{"mt":1,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Miner","Graveyard","Cannon","Goblin Barrel","Barbarian Barrel","Spear Goblins","Prince","Evolved Knight"],"bean":["Balloon","Goblin Cage","Inferno Tower","Giant Snowball","Zap","Archers","Ice Golem","Goblin Hut"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 40min ago"},
+    {"id":"m46","gameNumber":51,"roundNumber":4,"roundGame":4,"source":"R4_Game3and4.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Electro Wizard","Princess","Spear Goblins","Tesla","Mirror","Poison","Skeleton Barrel"],"bean":["Lumberjack","Royal Giant","Ice Wizard","Goblin Cage","Battle Healer","Zap","Barbarian Barrel","Heal Spirit"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 34min ago"},
+    {"id":"m47","gameNumber":52,"roundNumber":4,"roundGame":5,"source":"R4_Game5and6.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Giant","Fisherman","Wizard","Arrows","Giant Snowball","Rocket","Graveyard","Elite Barbarians"],"bean":["X-Bow","Lumberjack","Cannon","Ice Spirit","Inferno Tower","Prince","Monk","Boulder"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 27min ago"},
+    {"id":"m48","gameNumber":53,"roundNumber":4,"roundGame":6,"source":"R4_Game5and6.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Royal Hogs","Goblin Cage","Minions","Goblin Drill","Skeleton Dragons","Boulder","Tesla"],"bean":["Cannon","Hog Rider","Musketeer","Ice Golem","The Log","Firecracker","Prince","Bomber"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 21min ago"},
+    {"id":"m49","gameNumber":54,"roundNumber":4,"roundGame":7,"source":"R4_Game7.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Fisherman","Electro Dragon","Minions","Cannon","Goblins","Valkyrie","The Log","Archer Queen"],"bean":["Goblin Cage","Ice Wizard","Tornado","Miner","Poison","Ice Golem","Barbarian Barrel","Guards"]},"trophies":{"mt":9061,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-21","confidence":"visible","recordedAgo":"14h 10min ago"},
+    {"id":"m50","gameNumber":55,"roundNumber":4,"roundGame":8,"source":"R4_Game8and9.PNG","sourceOrder":2,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Goblin Giant","Mini P.E.K.K.A","Freeze","Royal Giant","Knight","Bats","Arrows","Goblin Hut"],"bean":["Lumberjack","Goblins","Zap","Royal Hogs","Princess","Fisherman","Bomb Tower","Spear Goblins"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"50min ago"},
+    {"id":"m51","gameNumber":56,"roundNumber":4,"roundGame":9,"source":"R4_Game8and9.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Princess","Royal Hogs","Fisherman","Valkyrie","Magic Archer","Witch","Cannon","Arrows"],"bean":["Battle Healer","The Log","Bomb Tower","Rascals","Ice Spirit","Tesla","Poison","Skeleton Barrel"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"44min ago"},
+    {"id":"m52","gameNumber":57,"roundNumber":4,"roundGame":10,"source":"R4_Game10and11.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Rage","Goblin Giant","Princess","Cannon","Archers","Ram Rider","Graveyard","Fireball"],"bean":["Royal Delivery","Balloon","Battle Healer","Ice Spirit","Archers","Rascals","Tesla","Goblin Drill"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"39min ago"},
+    {"id":"m53","gameNumber":58,"roundNumber":4,"roundGame":11,"source":"R4_Game10and11.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Electro Wizard","Elite Barbarians","Night Witch","Poison","Suspicious Bush","Furnace","X-Bow","The Log"],"bean":["Magic Archer","Tesla","Bandit","Poison","Cannon Cart","Guards","Balloon","Zap"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"36min ago"},
+    {"id":"m54","gameNumber":59,"roundNumber":5,"roundGame":1,"source":"R5_Game1and2.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Balloon","Cannon","Bomb Tower","Poison","Zap","Skeleton Dragons","Mega Knight","Bandit"],"bean":["Valkyrie","Goblin Drill","Goblins","Electro Giant","Hog Rider","Giant Snowball","Spear Goblins","Skeletons"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"31min ago"},
+    {"id":"m55","gameNumber":60,"roundNumber":5,"roundGame":2,"source":"R5_Game1and2.PNG","sourceOrder":1,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Goblin Hut","Royal Hogs","Rage","Fisherman","Zap","Spear Goblins","Bowler"],"bean":["Electro Giant","Battle Healer","Goblins","Royal Giant","Poison","Yeti","Ice Spirit","Archers"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"26min ago"},
+    {"id":"m56","gameNumber":61,"roundNumber":5,"roundGame":3,"source":"R5_Game3and4.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Hogs","Guards","Bats","Skeleton Dragons","Cannon","Giant Snowball","Valkyrie","Rocket"],"bean":["Goblins","Royal Delivery","Bomb Tower","Yeti","Miner","Poison","Rascals","Firecracker"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"20min ago"},
+    {"id":"m57","gameNumber":62,"roundNumber":5,"roundGame":4,"source":"R5_Game3and4.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Freeze","Rage","Miner","Fireball","Cannon","Electro Wizard","Guards","Knight"],"bean":["Goblins","Royal Delivery","Royal Giant","Poison","Royal Recruits","Bandit","Skeletons","Furnace"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"15min ago"},
+    {"id":"m58","gameNumber":63,"roundNumber":5,"roundGame":5,"source":"R5_Game5and6.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Royal Giant","Mega Knight","Valkyrie","Poison","Bandit","Battle Ram","Fireball"],"bean":["Royal Delivery","Royal Hogs","Electro Giant","Tesla","Goblins","Royal Recruits","Skeletons","Miner"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"9min ago"},
+    {"id":"m59","gameNumber":64,"roundNumber":5,"roundGame":6,"source":"R5_Game5and6.PNG","sourceOrder":1,"score":{"mt":3,"bean":0},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Valkyrie","Royal Delivery","Fireball","Battle Ram","Electro Giant","Fisherman","Goblins"],"bean":["X-Bow","Fisherman","Poison","Royal Hogs","Freeze","Yeti","Inferno Tower","Goblin Hut"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"5min ago"},
+    {"id":"m60","gameNumber":65,"roundNumber":5,"roundGame":7,"source":"R5_Game7.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Valkyrie","Royal Giant","X-Bow","Rage","Goblins","Guards","Goblin Brawler","Fisherman"],"bean":["Bomb Tower","Hog Rider","Magic Archer","Freeze","Poison","Fisherman","Ice Spirit","Skeletons"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible"},
+    {"id":"m61","gameNumber":66,"roundNumber":5,"roundGame":8,"source":"R5_Game8and9.PNG","sourceOrder":2,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Hog Rider","Rage","Poison","Freeze","Goblin Giant","Knight","Valkyrie","Mega Knight"],"bean":["Rascals","Suspicious Bush","Royal Giant","Minions","Goblin Gang","Cannon","Skeleton Army","Goblin Curse"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"23h 54min ago"},
+    {"id":"m62","gameNumber":67,"roundNumber":5,"roundGame":9,"source":"R5_Game8and9.PNG","sourceOrder":1,"score":{"mt":0,"bean":3},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Goblin Giant","Suspicious Bush","Magic Archer","Hog Rider","Cannon","Rascals","Poison","Arrows"],"bean":["Goblin Brawler","Lumberjack","The Log","Fisherman","Ram Rider","Wall Breakers","Firecracker","Giant Snowball"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"23h 49min ago"},
+    {"id":"m63","gameNumber":68,"roundNumber":5,"roundGame":10,"source":"R5_Game10.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Royal Hogs","Goblin Giant","Fireball","Inferno Tower","Golden Knight","Cannon","Yeti"],"bean":["Goblin Brawler","Bats","Bomb Tower","The Log","Zap","Skeleton Army","Ice Spirit","Goblin Drill"]},"trophies":{"mt":9062,"bean":6887},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"date":"2026-10-27","confidence":"visible","recordedAgo":"23h 45min ago"},
+    {"id":"m64","gameNumber":69,"roundNumber":5,"roundGame":11,"source":"R5_Game11.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Evolved Baby Dragon","Mighty Miner","Evolved Valkyrie","Bats","Guards","Hog Rider","Cannon","Rage"],"bean":["Evolved Cannon","Golden Knight","Evolved Ice Spirit","Royal Delivery","Skeletons","The Log","Poison","Royal Hogs"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":true,"confidence":"visible"},
+    {"id":"m65","gameNumber":70,"source":"Later_Game1and2.PNG","sourceOrder":2,"score":{"mt":1,"bean":2},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Freeze","Suspicious Bush","Cannon","Rage","Arrows","Cannon Cart","Tesla","Goblin Gang"],"bean":["X-Bow","Wizard","Goblin Giant","Battle Healer","Lumberjack","Battle Ram","Barbarian Hut","Minions"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"17h 25min ago"},
+    {"id":"m66","gameNumber":71,"source":"Later_Game1and2.PNG","sourceOrder":1,"score":{"mt":2,"bean":1},"winner":"mt","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["X-Bow","Balloon","Minions","Battle Healer","Battle Ram","Royal Hogs","Graveyard","Skeleton Army"],"bean":["Bomb Tower","Suspicious Bush","Firecracker","Valkyrie","Poison","Archers","Miner","Skeletons"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"17h 19min ago"},
+    {"id":"m67","gameNumber":72,"source":"Later_Game3and4.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["X-Bow","Mini P.E.K.K.A","Knight","Valkyrie","Suspicious Bush","Arrows","Graveyard","Mega Knight"],"bean":["Goblin Brawler","Royal Hogs","Lumberjack","Fisherman","Battle Healer","Giant Snowball","Royal Recruits","Goblins"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"17h 12min ago"},
+    {"id":"m68","gameNumber":73,"source":"Later_Game3and4.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Balloon","Valkyrie","Witch","Cannon","Spear Goblins","Night Witch","Arrows","Skeletons"],"bean":["Magic Archer","Goblin Hut","Goblin Brawler","Rascals","Royal Hogs","Zap","Yeti","Vines"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"17h 8min ago"},
+    {"id":"m69","gameNumber":74,"source":"Later_Game5and6.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Freeze","Royal Hogs","Battle Ram","Goblin Hut","Poison","Knight","Arrows","Rocket"],"bean":["Suspicious Bush","Electro Giant","Royal Giant","Battle Healer","Goblin Brawler","Rascals","Archers","Goblins"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"17h 2min ago"},
+    {"id":"m70","gameNumber":75,"source":"Later_Game5and6.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Royal Giant","Goblin Brawler","Bandit","Miner","Poison","Vines","Arrows","Fisherman"],"bean":["Bomb Tower","Lumberjack","Zap","Rascals","Tesla","Electro Spirit","Ram Rider","Goblin Machine"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"16h 58min ago"},
+    {"id":"m71","gameNumber":76,"source":"Later_Game7and8.PNG","sourceOrder":2,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Mini P.E.K.K.A","Cannon","Ice Wizard","Battle Healer","Fisherman","Rascals","Battle Ram","Giant Snowball"],"bean":["Lumberjack","Royal Hogs","Tesla","The Log","Goblin Gang","Witch","Zap","Furnace"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"16h 51min ago"},
+    {"id":"m72","gameNumber":77,"source":"Later_Game7and8.PNG","sourceOrder":1,"score":{"mt":0,"bean":1},"winner":"bean","players":{"mt":"MT","bean":"TheBeanWithDrip"},"decks":{"mt":["Knight","Rascals","Mega Minion","Goblin Hut","Cannon","Giant","Skeleton Dragons","Poison"],"bean":["Goblin Brawler","Balloon","Royal Hogs","Inferno Tower","Poison","Giant Snowball","Goblins","Bowler"]},"trophies":{"mt":9185,"bean":7011},"cardLevels":{"mt":11,"bean":11},"replayAvailable":false,"confidence":"visible","recordedAgo":"16h 46min ago"}
   ],
   "unresolvedEntries": [
     {
       "id": "u01",
-      "source": "IMG_3270.PNG",
-      "reason": "A battle card is clipped at the top of the screenshot; score and both decks cannot be read."
+      "source": "Game1and2.PNG",
+      "reason": "A Defeat 1–2 card is clipped at the bottom, just older than Game 1. Its decks are not visible, so it is not counted."
     },
-    {
-      "id": "u02",
-      "source": "IMG_3271.PNG",
-      "reason": "A battle card is clipped at the top and bottom; score and decks cannot be verified."
-    },
-    {
-      "id": "u03",
-      "source": "IMG_3272.PNG",
-      "reason": "Partial battle card at the bottom; score and decks are not visible."
+     {
+       "id": "u02",
+      "source": "Game2and3.PNG",
+      "reason": "A Defeat 1–2 card is clipped at the bottom, just older than Round 2 Game 7. Its decks are not visible, so it is not counted."
     },
     {
       "id": "u04",
-      "source": "IMG_3273.PNG",
-      "reason": "Partial battle card at the bottom; score and decks are not visible."
-    },
-    {
-      "id": "u05",
-      "source": "IMG_3274.PNG",
-      "reason": "Partial battle card at the top and bottom; score and decks are not fully visible."
+      "source": "R3_Game7and8.PNG",
+      "reason": "A Defeat 0–1 card is clipped at the bottom, just older than Round 3 Game 7. Its decks are not visible, so it is not counted."
     },
     {
       "id": "u06",
-      "source": "IMG_3275.PNG",
-      "reason": "Partial battle card at the bottom; score and decks are not visible."
-    },
-    {
-      "id": "u07",
-      "source": "IMG_3276.PNG",
-      "reason": "Partial battle card at the bottom; score and decks are not visible."
+      "source": "R3_Game10and11.PNG",
+      "reason": "A Defeat 0–1 card is clipped at the bottom, just older than Round 3 Game 10. Its decks are not visible, so it is not counted."
     },
     {
       "id": "u08",
-      "source": "IMG_3279.PNG",
-      "reason": "A clipped row marked 7 minutes ago may duplicate the complete match shown in IMG_3280.PNG; score and decks are hidden."
+      "source": "R4_Game8and9.PNG",
+      "reason": "A game card is clipped at the bottom, just older than Round 4 Game 8. Only its top edge is visible, so its score and decks are not readable and it is not counted."
     },
     {
-      "id": "u09",
-      "source": "IMG_3279.PNG",
-      "reason": "A partial 1–2 defeat row is clipped at the bottom; deck identity is not visible enough to match safely."
-    },
-    {
-      "id": "u10",
-      "source": "IMG_3280.PNG",
-      "reason": "A partial 1–2 defeat row is clipped at the bottom; it may overlap another capture and is excluded until confirmed."
+      "id": "u17",
+      "source": "Later_Game7and8.PNG",
+      "reason": "A newer game card (1h 28min ago, +33 trophies, Practice, Share and Watch buttons visible) is clipped at the top, newer than m72. Its score and decks are not visible, so it is not counted."
     }
   ]
 }

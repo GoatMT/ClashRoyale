@@ -1,24 +1,24 @@
 {
   "version": 1,
   "types": {
-    "Spell": ["Arrows", "Barbarian Barrel", "Earthquake", "Fireball", "Freeze", "Giant Snowball", "Mirror", "Poison", "Rage", "Rocket", "Royal Delivery", "The Log", "Tornado", "Zap"],
-    "Building": ["Barbarian Hut", "Bomb Tower", "Cannon", "Evolved Cannon", "Goblin Cage", "Goblin Hut", "Inferno Tower", "Tesla", "Tombstone"],
+    "Spell": ["Arrows", "Barbarian Barrel", "Earthquake", "Fireball", "Freeze", "Giant Snowball", "Mirror", "Poison", "Rage", "Rocket", "Royal Delivery", "The Log", "Tornado", "Zap", "Boulder", "Goblin Curse", "Vines"],
+    "Building": ["Barbarian Hut", "Bomb Tower", "Cannon", "Evolved Cannon", "Goblin Cage", "Goblin Hut", "Inferno Tower", "Tesla", "Tombstone", "X-Bow", "Furnace", "Mortar", "Goblin Drill"],
     "Tower Troop": []
   },
   "roles": {
-    "Win condition": ["Balloon", "Electro Giant", "Giant", "Goblin Barrel", "Goblin Drill", "Goblin Giant", "Golem", "Graveyard", "Hog Rider", "Miner", "Royal Hogs", "Skeleton Barrel"],
+    "Win condition": ["Balloon", "Battle Ram", "Electro Giant", "Giant", "Goblin Barrel", "Goblin Drill", "Goblin Giant", "Golem", "Graveyard", "Hog Rider", "Miner", "Ram Rider", "Royal Hogs", "Skeleton Barrel"],
     "Tower targeter": ["Balloon", "Electro Giant", "Giant", "Goblin Drill", "Goblin Giant", "Golem", "Hog Rider", "Royal Hogs", "Skeleton Barrel"],
-    "Champion": ["Archer Queen", "Golden Knight", "Monk"],
-    "Tank": ["Electro Giant", "Evolved Knight", "Giant", "Goblin Giant", "Golem", "Ice Golem", "Mega Knight", "Monk", "Royal Recruits"],
+    "Champion": ["Archer Queen", "Golden Knight", "Mighty Miner", "Monk", "Skeleton King"],
+    "Tank": ["Electro Giant", "Evolved Knight", "Giant", "Goblin Giant", "Golem", "Ice Golem", "Knight", "Mega Knight", "Monk", "Royal Giant", "Royal Recruits"],
     "Air troop": ["Baby Dragon", "Balloon", "Bats", "Electro Dragon", "Evolved Baby Dragon", "Inferno Dragon", "Mega Minion", "Minions", "Night Witch", "Skeleton Barrel", "Skeleton Dragons"],
     "Swarm": ["Bats", "Evolved Skeletons", "Goblin Gang", "Goblins", "Guards", "Minions", "Royal Hogs", "Royal Recruits", "Skeleton Army", "Skeletons", "Spear Goblins"],
     "Splash damage": ["Baby Dragon", "Bomber", "Dark Prince", "Electro Dragon", "Evolved Baby Dragon", "Evolved Valkyrie", "Executioner", "Firecracker", "Ice Wizard", "Mega Knight", "Princess", "Skeleton Dragons", "Valkyrie", "Witch", "Wizard"],
     "Multi-unit support": ["Three Musketeers"],
     "Ranged support": ["Archer Queen", "Archers", "Dart Goblin", "Electro Wizard", "Executioner", "Firecracker", "Fisherman", "Magic Archer", "Musketeer", "Night Witch", "Princess", "Three Musketeers", "Witch", "Wizard"],
-    "Defensive building": ["Bomb Tower", "Cannon", "Evolved Cannon", "Goblin Cage", "Inferno Tower", "Tesla", "Tombstone"],
-    "Spawner": ["Barbarian Hut", "Goblin Cage", "Goblin Hut", "Tombstone"],
-    "Damage spell": ["Arrows", "Earthquake", "Fireball", "Poison", "Rocket", "The Log", "Zap"],
-    "Control spell": ["Barbarian Barrel", "Freeze", "Giant Snowball", "Royal Delivery", "Tornado"],
+    "Defensive building": ["Bomb Tower", "Cannon", "Evolved Cannon", "Goblin Cage", "Inferno Tower", "Mortar", "Tesla", "Tombstone", "X-Bow"],
+    "Spawner": ["Barbarian Hut", "Furnace", "Goblin Cage", "Goblin Drill", "Goblin Hut", "Tombstone"],
+    "Damage spell": ["Arrows", "Boulder", "Earthquake", "Fireball", "Poison", "Rocket", "The Log", "Zap"],
+    "Control spell": ["Barbarian Barrel", "Freeze", "Giant Snowball", "Goblin Curse", "Royal Delivery", "Tornado", "Vines"],
     "Utility spell": ["Mirror", "Rage"]
   },
   "notes": "Base type uses the game's card categories: Troop (default), Spell, Building, and Tower Troop. Role tags are descriptive deck-archetype labels and may overlap; they are not official exclusive classes. No Tower Troop appears in the supplied match decks.",

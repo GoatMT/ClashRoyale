@@ -1,6 +1,6 @@
 {
   "players": [
-    { "id": "mt", "name": "MT", "tag": null, "color": "#35aaff", "side": "blue" },
-    { "id": "bean", "name": "TheBeanWithDrip", "tag": null, "color": "#ff4e9a", "side": "pink" }
+    { "id": "mt", "name": "MT", "tag": null, "clan": "Clashers", "country": "Brazil", "color": "#35aaff", "side": "blue" },
+    { "id": "bean", "name": "TheBeanWithDrip", "tag": null, "clan": "Clashers", "country": "Brazil", "color": "#ff4e9a", "side": "pink" }
   ]
 }
